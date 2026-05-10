@@ -1,5 +1,4 @@
-tensorflow==2.15.0
 streamlit
-Pillow
+tensorflow
 numpy
-tqdm
+Pillow
